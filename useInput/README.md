@@ -1,4 +1,4 @@
-#Usage
+# Usage
 
 ```js
 import useInput from "@nooks/use-input"
